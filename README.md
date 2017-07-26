@@ -1,1 +1,1 @@
-# mcompany2017
+# mcomp-med
